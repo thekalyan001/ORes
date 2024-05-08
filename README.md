@@ -1,6 +1,6 @@
 # OReselling
 
-<h1><a href="https://cmbookstoreback.deno.dev/"> Live Preview</a></h1>   (backend won't work as its not hosted)
+<h1> Sell Your Used Products Here.</h1>
 
 ### By Kalyan Mishra ✔
 
