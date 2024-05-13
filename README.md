@@ -44,7 +44,7 @@ ContactUs           |   AboutUS
 
 <br>
 
-WidhList          |   AdminHome
+WishList          |   AdminHome
 :-------------------------:|:-------------------------:
 ![](https://github.com/thekalyan001/OReselling/blob/main/images/wish%20list.JPG)  |  ![](https://github.com/thekalyan001/OReselling/blob/main/images/SELL%20home.JPG)
 
